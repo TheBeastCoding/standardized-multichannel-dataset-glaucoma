@@ -28,3 +28,6 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - G1020
 - EyePACS-AIROGS (Referable Glaucoma Images Only)
 - PAPILA
+
+## Excluded Images
+- OIA-ODIR-TEST-OFFLINE : 1322_right.jpg : Not a fundus image.
