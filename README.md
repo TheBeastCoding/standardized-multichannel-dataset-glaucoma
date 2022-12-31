@@ -37,3 +37,27 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - OIA-ODIR-TRAIN-3148 : 4290_left.jpg : No ONH present
 - OIA-ODIR-TRAIN-3213 : 4500_left.jpg : No ONH present
 - OIA-ODIR-TRAIN-3162 : 4330_left.jpg : Partial ONH present
+- OIA-ODIR-TRAIN-3034 : 3442_right.jpg : Partial ONH present
+- OIA-ODIR-TRAIN-3022 : 3436_right.jpg : No ONH present
+- OIA-ODIR-TRAIN-3010 : 3430_right.jpg : No ONH present
+- OIA-ODIR-TRAIN-3009 : 3430_left.jpg : No ONH present
+- OIA-ODIR-TRAIN-2990 : 3420_right.jpg : Partial ONH present
+- OIA-ODIR-TRAIN-2981 : 3416_left.jpg : No ONH present
+- OIA-ODIR-TRAIN-2982 : 3416_right.jpg : No ONH present
+- OIA-ODIR-TRAIN-2951 : 3401_left.jpg : No ONH present
+- OIA-ODIR-TRAIN-2839 : 3345_left.jpg : No ONH present
+- OIA-ODIR-TRAIN-2840 : 3345_right.jpg : No ONH present
+- OIA-ODIR-TRAIN-2831 : 3341_left.jpg : No ONH present
+- OIA-ODIR-TRAIN-2782 : 3316_right.jpg : No ONH present
+- OIA-ODIR-TRAIN-2700 : 3375_right.jpg : No ONH present
+- OIA-ODIR-TRAIN-2681 : 3266_left.jpg : No ONH present
+- OIA-ODIR-TRAIN-2566 : 3208_right.jpg : No ONH present
+- OIA-ODIR-TRAIN-3561 : 3206_left.jpg : Partial ONH present
+- OIA-ODIR-TRAIN-3562 : 3206_right.jpg : Partial ONH present
+- OIA-ODIR-TRAIN-2556 : 3203_right.jpg : Partial ONH present
+- OIA-ODIR-TRAIN-2532 : 3191_right.jpg : No ONH present
+- OIA-ODIR-TRAIN-2497 : 3174_left.jpg : No ONH present
+- OIA-ODIR-TRAIN-2443 : 3147_left.jpg : ONH obscured
+- OIA-ODIR-TRAIN-2433 : 3142_left.jpg : No ONH present
+- OIA-ODIR-TRAIN-2419 : 3135_left.jpg : No ONH present
+- OIA-ODIR-TRAIN-2420 : 3135_right.jpg : Partial ONH present
