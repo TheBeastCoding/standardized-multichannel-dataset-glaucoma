@@ -25,11 +25,16 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - G1020
 - PAPILA
 
-## The following databases will be added at a later date
+## The following datasets will be added at a later date
 - HRF (High Resolution Fundus)
 - LES-AV
 - DR-HAGIS (Diabetic Retinopathy, Hypertension, Age-related macular degeneration and Glacuoma ImageS)
 - CRFO-v4
+
+## The following datasets do not contain full fundus images
+- ACRIMA
+- KEH (Kim's Eye Hospital)
+- RIM-ONE
 
 ## Excluded Images
 - OIA-ODIR-TEST-OFFLINE-21 : 1322_right.jpg : Not a fundus image.
