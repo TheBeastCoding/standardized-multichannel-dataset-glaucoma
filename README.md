@@ -18,6 +18,8 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - BEH (Bangladesh Eye Hospital)
 - JSEIC-1000 (Joint Shantou International Eye Center)
 - EyePACS-AIROGS (Referable Glaucoma Images Only)
+- DRISHTI-GS1-train
+- DRISHTI-GS1-test
 
 ## The following databases will be added at a later date
 - HRF (High Resolution Fundus)
@@ -26,8 +28,6 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - REFUGE1-VAL (Retinal Fundus Glaucoma Challenge 1 Validation)
 - DR-HAGIS (Diabetic Retinopathy, Hypertension, Age-related macular degeneration and Glacuoma ImageS)
 - CRFO-v4
-- DRISHTI-GS1-train
-- DRISHTI-GS1-test
 - G1020
 - PAPILA
 
