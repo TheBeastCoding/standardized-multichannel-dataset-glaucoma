@@ -20,12 +20,12 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - EyePACS-AIROGS (Referable Glaucoma Images Only)
 - DRISHTI-GS1-train
 - DRISHTI-GS1-test
+- REFUGE1-TRAIN (Retinal Fundus Glaucoma Challenge 1 Train)
+- REFUGE1-VAL (Retinal Fundus Glaucoma Challenge 1 Validation)
 
 ## The following databases will be added at a later date
 - HRF (High Resolution Fundus)
 - LES-AV
-- REFUGE1-TRAIN (Retinal Fundus Glaucoma Challenge 1 Train)
-- REFUGE1-VAL (Retinal Fundus Glaucoma Challenge 1 Validation)
 - DR-HAGIS (Diabetic Retinopathy, Hypertension, Age-related macular degeneration and Glacuoma ImageS)
 - CRFO-v4
 - G1020
