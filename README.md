@@ -22,14 +22,14 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - DRISHTI-GS1-test
 - REFUGE1-TRAIN (Retinal Fundus Glaucoma Challenge 1 Train)
 - REFUGE1-VAL (Retinal Fundus Glaucoma Challenge 1 Validation)
+- G1020
+- PAPILA
 
 ## The following databases will be added at a later date
 - HRF (High Resolution Fundus)
 - LES-AV
 - DR-HAGIS (Diabetic Retinopathy, Hypertension, Age-related macular degeneration and Glacuoma ImageS)
 - CRFO-v4
-- G1020
-- PAPILA
 
 ## Excluded Images
 - OIA-ODIR-TEST-OFFLINE-21 : 1322_right.jpg : Not a fundus image.
