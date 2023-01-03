@@ -134,6 +134,7 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - OIA-ODIR-TRAIN-624 : 1369_left.jpg : No ONH present
 - OIA-ODIR-TRAIN-601 : 1319_right.jpg : No ONH present
 - OIA-ODIR-TRAIN-543 : 1254_right.jpg : No ONH present
+- OIA-ODIR-TRAIN-473 : 1145_right.jpg : Partial ONH present
 - OIA-ODIR-TRAIN-441 : 1066_right.jpg : No ONH present
 - OIA-ODIR-TRAIN-369 : 884_right.jpg : Partial ONH present
 - OIA-ODIR-TRAIN-280 : 643_left.jpg : No ONH present
