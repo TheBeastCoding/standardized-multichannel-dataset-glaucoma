@@ -2,13 +2,13 @@
 Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and standardization of 18 public full-fundus glaucoma images and associated metadata.
 
 ## File Descriptions
-- Metadata.csv : Links dataset instance metadata to image file paths.
+- metadata.csv : Links dataset instance metadata to image file paths.
 - full-fundus/ : Folder containing all full fundus images.
 - optic-cup/ : Folder containing the optic cup segmentation map based on the full fundus image.
 - optic-disc/ : Folder containing the optic disc segmentation map based on the full fundus image.
 - blood-vessel/ : Folder containing the blood vessel segmentation map based on the full fundus image.
-- artery/ : Folder containing the artery segmentation map based on the full fundus image.
-- vein/ : Folder containing the vein segmentation map based on the full fundus image.
+- vessel-artery/ : Folder containing the artery segmentation map based on the full fundus image.
+- vessel-vein/ : Folder containing the vein segmentation map based on the full fundus image.
 
 ## The images in this dataset are standardized from the following open-access datasets.
 - OIA-ODIR-TRAIN
