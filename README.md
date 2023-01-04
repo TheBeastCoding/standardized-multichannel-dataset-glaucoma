@@ -34,6 +34,7 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 | REFUGE1-TRAIN (Retinal Fundus Glaucoma Challenge 1 Train) | 360 | 40 | 0 | https://refuge.grand-challenge.org/REFUGE2Download/  |
 | REFUGE1-VALIDATION (Retinal Fundus Glaucoma Challenge 1 Validation) | 360 | 40 | 0 | https://refuge.grand-challenge.org/REFUGE2Download/  |
 | sjchoi86-HRF | 300 | 101 | 0 | https://github.com/yiweichen04/retina_dataset |
+| Total | 7300 | 4617 | 133 | |
 
 ## The following datasets are open-access but do not contain full fundus images
 - ACRIMA
