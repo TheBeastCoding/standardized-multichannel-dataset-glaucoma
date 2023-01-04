@@ -1,4 +1,4 @@
-# standardized-multichannel-dataset-glaucoma
+# Standardized Multi-Channel Dataset for Glaucoma (SMDG-17)
 Standardized Multi-Channel Dataset for Glaucoma (SMDG-17) is a collection and standardization of 17 public full-fundus glaucoma images and associated metadata.
 
 ## File Descriptions
