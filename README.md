@@ -38,9 +38,6 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - KEH (Kim's Eye Hospital)
 - RIM-ONE
 
-## The following instaces need improvement
-- CRF0-v4-30/57/18/19 : fundus image lens flare providing wrong FOV
-
 ## The following images are excluded from the OIA-ODIR dataset:
 - OIA-ODIR-TEST-OFFLINE-21 : 1322_right.jpg : Not a fundus image.
 - OIA-ODIR-TRAIN-3149 : 4290_right.jpg : No ONH present
