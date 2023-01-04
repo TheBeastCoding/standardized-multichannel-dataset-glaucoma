@@ -26,7 +26,7 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 | HRF (High Resolution Fundus) | 15 | 15 | 0 | https://www5.cs.fau.de/research/data/fundus-images/  |
 | JSIEC-1000 (Joint Shantou International Eye Center) | 38 | 0 | 13 | https://www.kaggle.com/datasets/linchundan/fundusimage1000 |
 | LES-AV | 11 | 11 | 0 | https://figshare.com/articles/dataset/LES-AV_dataset/11857698/1 |
-| OIA-ODIR-TRAIN | 2933 | 197 | 18 | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k |
+| OIA-ODIR-TRAIN | 2932 | 197 | 18 | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k |
 | OIA-ODIR-TEST-ONLINE | 802 | 58 | 25 | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k |
 | OIA-ODIR-TEST-OFFLINE | 417 | 36 | 9 | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k |
 | ORIGA-light | 482 | 168 | 0 | https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection |
