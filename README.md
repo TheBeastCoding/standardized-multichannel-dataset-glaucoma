@@ -13,25 +13,27 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - spectral-oct-cup/ : Folder containing the optic cup segmentation lines based on the full spectral oct image.
 - spectral-oct-disc/ : Folder containing the optic disc segmentation lines based on the full spectral oct image.
 
-## The images in this dataset are standardized from the following open-access datasets.
-- OIA-ODIR-TRAIN
-- OIA-ODIR-TEST-ONLINE
-- OIA-ODIR-TEST-OFFLINE
-- sjchoi86-HRF
-- BEH (Bangladesh Eye Hospital)
-- JSEIC-1000 (Joint Shantou International Eye Center)
-- EyePACS-AIROGS (Referable Glaucoma Images Only)
-- DRISHTI-GS1-train
-- DRISHTI-GS1-test
-- REFUGE1-TRAIN (Retinal Fundus Glaucoma Challenge 1 Train)
-- REFUGE1-VAL (Retinal Fundus Glaucoma Challenge 1 Validation)
-- G1020
-- PAPILA
-- DR-HAGIS (Diabetic Retinopathy, Hypertension, Age-related macular degeneration and Glacuoma ImageS)
-- HRF (High Resolution Fundus)
-- LES-AV
-- CRFO-v4
-- ORIGA-light
+## Public Glaucoma Image Datasets
+| Dataset  | 0 | 1 | -1 | Access Link |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| BEH (Bangladesh Eye Hospital) | 463 | 171 | 0 | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset |
+| CRFO-v4 | 31 | 48 | 0 | https://data.mendeley.com/datasets/trghs22fpg/4 |
+| DR-HAGIS (Diabetic Retinopathy, Hypertension, Age-related macular degeneration and Glacuoma ImageS) | 0 | 10 | 0 | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ |
+| DRISHTI-GS1-TRAIN  | 18 | 32 | 0 | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  |
+| DRISHTI-GS1-TEST  | 13 | 38 | 0 | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  |
+| EyePACS-AIROGS | 0 | 3269 | 0 | https://airogs.grand-challenge.org/data-and-challenge/ |
+| G1020 | 724 | 296 | 0 | https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets |
+| HRF (High Resolution Fundus) | 15 | 15 | 0 | https://www5.cs.fau.de/research/data/fundus-images/  |
+| JSIEC-1000 (Joint Shantou International Eye Center) | 38 | 0 | 13 | https://www.kaggle.com/datasets/linchundan/fundusimage1000 |
+| LES-AV | 11 | 11 | 0 | https://figshare.com/articles/dataset/LES-AV_dataset/11857698/1 |
+| OIA-ODIR-TRAIN | 2933 | 197 | 18 | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k |
+| OIA-ODIR-TEST-ONLINE | 802 | 58 | 25 | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k |
+| OIA-ODIR-TEST-OFFLINE | 417 | 36 | 9 | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k |
+| ORIGA-light | 482 | 168 | 0 | https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection |
+| PAPILA | 333 | 87 | 68 | https://doi.org/10.6084/m9.figshare.14798004.v1 |
+| REFUGE1-TRAIN (Retinal Fundus Glaucoma Challenge 1 Train) | 360 | 40 | 0 | https://refuge.grand-challenge.org/REFUGE2Download/  |
+| REFUGE1-VALIDATION (Retinal Fundus Glaucoma Challenge 1 Validation) | 360 | 40 | 0 | https://refuge.grand-challenge.org/REFUGE2Download/  |
+| sjchoi86-HRF | 300 | 101 | 0 | https://github.com/yiweichen04/retina_dataset |
 
 ## The following datasets are open-access but do not contain full fundus images
 - ACRIMA
