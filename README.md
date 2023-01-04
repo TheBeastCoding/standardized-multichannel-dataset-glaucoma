@@ -1,5 +1,5 @@
-# Standardized Multi-Channel Dataset for Glaucoma (SMDG-17)
-Standardized Multi-Channel Dataset for Glaucoma (SMDG-17) is a collection and standardization of 17 public full-fundus glaucoma images and associated metadata.
+# Standardized Multi-Channel Dataset for Glaucoma (SMDG-18)
+Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and standardization of 18 public full-fundus glaucoma images and associated metadata.
 
 ## File Descriptions
 - metadata.csv : Links dataset instance metadata to image file paths.
@@ -31,6 +31,7 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-17) is a collection and st
 - HRF (High Resolution Fundus)
 - LES-AV
 - CRFO-v4
+- ORIGA-light
 
 ## The following datasets are open-access but do not contain full fundus images
 - ACRIMA
