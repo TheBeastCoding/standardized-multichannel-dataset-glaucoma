@@ -9,6 +9,9 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-17) is a collection and st
 - blood-vessel/ : Folder containing the blood vessel segmentation map based on the full fundus image.
 - vessel-artery/ : Folder containing the artery segmentation map based on the full fundus image.
 - vessel-vein/ : Folder containing the vein segmentation map based on the full fundus image.
+- spectral-oct/ : Folder containing all full spectral oct images.
+- spectral-oct-cup/ : Folder containing the optic cup segmentation lines based on the full spectral oct image.
+- spectral-oct-disc/ : Folder containing the optic disc segmentation lines based on the full spectral oct image.
 
 ## The images in this dataset are standardized from the following open-access datasets.
 - OIA-ODIR-TRAIN
