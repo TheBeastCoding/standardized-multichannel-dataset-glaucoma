@@ -4,11 +4,12 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 ## Image Standardization
 - How are the images standardized? Full fundus images are standardized by cropping the background, centering the fundus image, padding missing information, and resizing to 512x512 pixels.
 
-Original Fundus (sjchoi86-HRF) |   Standardized Fundus Image (sjchoi86-HRF)
---- | ---
-![fundus](https://user-images.githubusercontent.com/65875562/204170005-2d4dd051-0032-40c8-ba0b-390b6080bb69.png) | ![fundus_cropped](https://user-images.githubusercontent.com/65875562/204170011-51b7d001-4d43-4f0d-835e-984d45116b18.png)
-![BEH-sample](https://user-images.githubusercontent.com/65875562/211052753-93f8a3aa-cc65-4790-8da6-229f512a6afb.PNG)
- | ![BEH-sample-stanradized](https://user-images.githubusercontent.com/65875562/211053158-0185be8c-945e-4b34-91d3-eed6435a8048.PNG)
+Dataset Instance | Original Fundus  |   Standardized Fundus Image
+--- | --- | ---
+sjchoi86-HRF | <img src="https://user-images.githubusercontent.com/65875562/204170005-2d4dd051-0032-40c8-ba0b-390b6080bb69.png" width="512"> | <img src="https://user-images.githubusercontent.com/65875562/204170011-51b7d001-4d43-4f0d-835e-984d45116b18.png" width="256">
+BEH | <img src="https://user-images.githubusercontent.com/65875562/211052753-93f8a3aa-cc65-4790-8da6-229f512a6afb.PNG" width="512"> | <img src="https://user-images.githubusercontent.com/65875562/211053562-5b269348-a892-469a-acb5-869c622928e1.PNG" width="256">
+
+ 
 
 
 
