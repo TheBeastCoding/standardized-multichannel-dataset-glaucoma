@@ -1,6 +1,12 @@
 # Standardized Multi-Channel Dataset for Glaucoma (SMDG-18), a standardization of 18 public datasets.
 Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and standardization of 18 public full-fundus glaucoma images and associated metadata.
 
+## Image Standardization Examples
+### Raw Fundus Standardization
+Original Fundus (sjchoi86-HRF) |   Standardized Fundus Image (sjchoi86-HRF)
+--- | ---
+![fundus](https://user-images.githubusercontent.com/65875562/204170005-2d4dd051-0032-40c8-ba0b-390b6080bb69.png) | ![fundus_cropped](https://user-images.githubusercontent.com/65875562/204170011-51b7d001-4d43-4f0d-835e-984d45116b18.png)
+
 ## File Descriptions
 - metadata.csv : Links dataset instance metadata to image file paths.
 - full-fundus/ : Folder containing all full fundus images.
