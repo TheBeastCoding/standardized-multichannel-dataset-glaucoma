@@ -8,7 +8,8 @@ Original Fundus (sjchoi86-HRF) |   Standardized Fundus Image (sjchoi86-HRF)
 --- | ---
 ![fundus](https://user-images.githubusercontent.com/65875562/204170005-2d4dd051-0032-40c8-ba0b-390b6080bb69.png) | ![fundus_cropped](https://user-images.githubusercontent.com/65875562/204170011-51b7d001-4d43-4f0d-835e-984d45116b18.png)
 ![BEH-sample](https://user-images.githubusercontent.com/65875562/211052753-93f8a3aa-cc65-4790-8da6-229f512a6afb.PNG)
- | ![BEH-170](https://user-images.githubusercontent.com/65875562/211052949-1be8b4a4-04b2-4035-af68-c062b0ebefc6.png)
+ | ![BEH-sample-stanradized](https://user-images.githubusercontent.com/65875562/211053158-0185be8c-945e-4b34-91d3-eed6435a8048.PNG)
+
 
 
 
