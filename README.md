@@ -13,7 +13,12 @@ Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and st
 - spectral-oct-cup/ : Folder containing the optic cup segmentation lines based on the full spectral oct image.
 - spectral-oct-disc/ : Folder containing the optic disc segmentation lines based on the full spectral oct image.
 
-## Public Glaucoma Image Datasets
+## Dataset labels
+- 0: Non-Glaucoma instance
+- 1: Glaucoma instance
+- -1: Glaucoma-suspect instance
+
+## SMDG-18 is comrpised of the following Public Glaucoma Image Datasets
 | Dataset  | 0 | 1 | -1 | Access Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | BEH (Bangladesh Eye Hospital) | 463 | 171 | 0 | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset |
