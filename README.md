@@ -1,6 +1,9 @@
-# Standardized Multi-Channel Dataset for Glaucoma (SMDG-18), a standardization of 18 public datasets.
+# Standardized Multi-Channel Dataset for Glaucoma (SMDG-18), a standardization of 18 public datasets for AI applications.
 Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and standardization of 18 public full-fundus glaucoma images, associated image metadata like,  optic disc segmentation, optic cup segmentation, blood vessel segmentation, and any provided per-instance text metadata like sex and age.
 
+## Dataset Objective
+The objective of this dataset that is a machine learning-ready dataset for Glaucoma-related applications. 
+ 
 ## Data Standardization
 - Full fundus images (and corresponding segmentation maps) are standardized by cropping the background, centering the fundus image, padding missing information, and resizing to 512x512 pixels.
 - Each available metadata text attribute is provided as a column in a CSV file
@@ -41,7 +44,7 @@ BEH | <img src="https://user-images.githubusercontent.com/65875562/211052753-93f
 ## Instructions for Popular Use Cases
 - Glaucoma classification (12,049 total instances): Split the data by 'types' column in the CSV file. Input = 'fundus' file. Label = 'types' number.
 - Optic cup segmentation (2,874 instances): Find all rows in CSV file with a non-empty 'fundus_od_seg' column. Input = 'fundus' file. Label = 'fundus_oc_seg' file.
-- Optic disc segmentation (3,103 instances): Find all rows in CSV file with a non-empty 'fundus_oc_seg' column. Input = 'fundus' file. Label = 'fundus_od_seg' file.
+- Optic disc segmentation (3,103 instances): Find all rows in CSV file with a non-empty 'fundus_oc_seg' column. Note some instances are labeled as 'Not Visible', so you must exclude these as well. Input = 'fundus' file. Label = 'fundus_od_seg' file.
 
 ## File Descriptions
 - metadata.csv : Links dataset instance metadata to image file paths.
