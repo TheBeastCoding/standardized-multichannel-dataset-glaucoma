@@ -1,6 +1,10 @@
 # Standardized Multi-Channel Dataset for Glaucoma (SMDG-18), a standardization of 18 public datasets for AI applications.
 Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and standardization of 18 public full-fundus glaucoma images, associated image metadata like,  optic disc segmentation, optic cup segmentation, blood vessel segmentation, and any provided per-instance text metadata like sex and age.
 
+## Release Window
+The dataset abstract is submitted to ARVO 2023. The full dataset will be released on Kaggle upon abstract acceptance (~February, 2023).
+Dataset Link: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
+
 ## Dataset Objective
 The objective of this dataset that is a machine learning-ready dataset for Glaucoma-related applications. Using the help of the community, new open-source Glaucoma datasets will be reviewed for standardization and inclusion in this dataset.
  
