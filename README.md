@@ -1,8 +1,8 @@
-# Standardized Multi-Channel Dataset for Glaucoma (SMDG-18), a standardization of 18 public datasets for AI applications.
-Standardized Multi-Channel Dataset for Glaucoma (SMDG-18) is a collection and standardization of 18 public full-fundus glaucoma images, associated image metadata like,  optic disc segmentation, optic cup segmentation, blood vessel segmentation, and any provided per-instance text metadata like sex and age.
+# Standardized Multi-Channel Dataset for Glaucoma (SMDG-19), a standardization of 19 public datasets for AI applications.
+Standardized Multi-Channel Dataset for Glaucoma (SMDG-19) is a collection and standardization of 19 public full-fundus glaucoma images, associated image metadata like,  optic disc segmentation, optic cup segmentation, blood vessel segmentation, and any provided per-instance text metadata like sex and age.
 
 ## Release Window
-The dataset abstract is submitted to ARVO 2023. The full dataset will be released on Kaggle upon abstract acceptance (~February, 2023).
+The dataset abstract has been accepted into the ARVO 2023 conference. The full dataset will be released on Kaggle at the conference presentation.
 Dataset Link: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
 
 ## Dataset Objective
@@ -22,7 +22,7 @@ BEH | <img src="https://user-images.githubusercontent.com/65875562/211052753-93f
 - 1: Glaucoma instance
 - -1: Glaucoma-suspect instance
 
-## SMDG-18 is comrpised of the following Public Glaucoma Image Datasets
+## SMDG-19 is comrpised of the following Public Glaucoma Image Datasets
 | Dataset  | 0 | 1 | -1 | Access Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | BEH (Bangladesh Eye Hospital) | 463 | 171 | 0 | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset |
