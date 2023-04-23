@@ -9,6 +9,13 @@ Dataset Link: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma
 
 ## Dataset Objective
 The objective of this dataset that is a machine learning-ready dataset for Glaucoma-related applications. Using the help of the community, new open-source Glaucoma datasets will be reviewed for standardization and inclusion in this dataset.
+
+## Public Datasets
+Learn more about existing public glaucoma datasets using this dataset catalog: https://github.com/TheBeastCoding/glaucoma-dataset-metadata
+
+## Dataset Objective
+The objective of this dataset that is a machine learning-ready dataset for Glaucoma-related applications. Using the help of the community, new open-source Glaucoma datasets will be reviewed for standardization and inclusion in this dataset.
+
  
 ## Data Standardization
 - Full fundus images (and corresponding segmentation maps) are standardized by cropping the background, centering the fundus image, padding missing information, and resizing to 512x512 pixels.
