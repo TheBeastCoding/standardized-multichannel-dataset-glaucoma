@@ -4,7 +4,7 @@ This dataset is now available on Kaggle! Check it out!
 
 Standardized Multi-Channel Dataset for Glaucoma (SMDG-19) is a collection and standardization of 19 public full-fundus glaucoma images, associated image metadata like,  optic disc segmentation, optic cup segmentation, blood vessel segmentation, and any provided per-instance text metadata like sex and age. Standardized images like those presented here are not only machine-learning ready, but much more portable, useable, and accessible than their original formats. For example, the popular dataset, EyePACS AIROGS, contains nearly 100GB of data without standardization and around 5GB of data after standardization!
 
-## Release Window
+## Accessibility
 Dataset Link: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
 
 ## Dataset Objective
